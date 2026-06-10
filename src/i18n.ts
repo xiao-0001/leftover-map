@@ -17,7 +17,7 @@ type Dict = Record<string, string>;
 
 const zh: Dict = {
   'header.title': '剩食地圖',
-  'header.subtitle': '減少食物浪費 · NYCU English Presentation',
+  'header.subtitle': '減少食物浪費 · TAICA 生成式AI人文導論',
   'header.mode.cvs': '🏪 超商剩食',
   'header.mode.dorm': '🏠 宿舍分享',
   'header.tagline.cvs': '7-ELEVEN + FamilyMart · 示範資料',
@@ -118,7 +118,7 @@ const zh: Dict = {
 
 const en: Dict = {
   'header.title': 'Leftover Map',
-  'header.subtitle': 'Reduce food waste · NYCU English Presentation',
+  'header.subtitle': 'Reduce food waste · TAICA Gen-AI Humanities',
   'header.mode.cvs': '🏪 Convenience Store',
   'header.mode.dorm': '🏠 Dorm Sharing',
   'header.tagline.cvs': '7-ELEVEN + FamilyMart · demo data',
@@ -219,7 +219,7 @@ const en: Dict = {
 
 const ja: Dict = {
   'header.title': '余り物マップ',
-  'header.subtitle': '食品ロス削減 · NYCU 英語プレゼン',
+  'header.subtitle': '食品ロス削減 · TAICA',
   'header.mode.cvs': '🏪 コンビニ',
   'header.mode.dorm': '🏠 寮シェア',
   'header.tagline.cvs': 'セブン + ファミマ · デモデータ',
@@ -319,7 +319,7 @@ const ja: Dict = {
 
 const ko: Dict = {
   'header.title': '잉여 음식 지도',
-  'header.subtitle': '음식물 쓰레기 감축 · NYCU 영어 발표',
+  'header.subtitle': '음식물 쓰레기 감축 · TAICA',
   'header.mode.cvs': '🏪 편의점',
   'header.mode.dorm': '🏠 기숙사 공유',
   'header.tagline.cvs': '7-ELEVEN + FamilyMart · 데모',
@@ -419,7 +419,7 @@ const ko: Dict = {
 
 const hi: Dict = {
   'header.title': 'बचा खाना मैप',
-  'header.subtitle': 'खाद्य बर्बादी कम करें · NYCU',
+  'header.subtitle': 'खाद्य बर्बादी कम करें · TAICA',
   'header.mode.cvs': '🏪 दुकान',
   'header.mode.dorm': '🏠 छात्रावास',
   'header.tagline.cvs': '7-ELEVEN + FamilyMart · डेमो',
@@ -519,7 +519,7 @@ const hi: Dict = {
 
 const vi: Dict = {
   'header.title': 'Đồ ăn Thừa',
-  'header.subtitle': 'Giảm lãng phí · Bài thuyết trình NYCU',
+  'header.subtitle': 'Giảm lãng phí · TAICA',
   'header.mode.cvs': '🏪 Cửa hàng',
   'header.mode.dorm': '🏠 Ký túc xá',
   'header.tagline.cvs': '7-ELEVEN + FamilyMart · demo',
@@ -619,7 +619,7 @@ const vi: Dict = {
 
 const th: Dict = {
   'header.title': 'แผนที่อาหารเหลือ',
-  'header.subtitle': 'ลดขยะอาหาร · NYCU นำเสนอภาษาอังกฤษ',
+  'header.subtitle': 'ลดขยะอาหาร · TAICA',
   'header.mode.cvs': '🏪 ร้านสะดวกซื้อ',
   'header.mode.dorm': '🏠 หอพักแบ่งปัน',
   'header.tagline.cvs': '7-ELEVEN + FamilyMart · เดโม',
@@ -719,7 +719,7 @@ const th: Dict = {
 
 const de: Dict = {
   'header.title': 'Reste-Karte',
-  'header.subtitle': 'Weniger Lebensmittelverschwendung · NYCU',
+  'header.subtitle': 'Weniger Lebensmittelverschwendung · TAICA',
   'header.mode.cvs': '🏪 Laden',
   'header.mode.dorm': '🏠 Wohnheim',
   'header.tagline.cvs': '7-ELEVEN + FamilyMart · Demo',
@@ -819,7 +819,7 @@ const de: Dict = {
 
 const es: Dict = {
   'header.title': 'Mapa Sobras',
-  'header.subtitle': 'Menos desperdicio · NYCU',
+  'header.subtitle': 'Menos desperdicio · TAICA',
   'header.mode.cvs': '🏪 Tienda',
   'header.mode.dorm': '🏠 Residencia',
   'header.tagline.cvs': '7-ELEVEN + FamilyMart · demo',
@@ -919,7 +919,7 @@ const es: Dict = {
 
 const fr: Dict = {
   'header.title': 'Carte Restes',
-  'header.subtitle': 'Moins de gaspillage · NYCU',
+  'header.subtitle': 'Moins de gaspillage · TAICA',
   'header.mode.cvs': '🏪 Magasin',
   'header.mode.dorm': '🏠 Résidence',
   'header.tagline.cvs': '7-ELEVEN + FamilyMart · démo',

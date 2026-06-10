@@ -20,7 +20,7 @@ function fromNav(): Lang {
   if (nav.startsWith('de')) return 'de';
   if (nav.startsWith('es')) return 'es';
   if (nav.startsWith('fr')) return 'fr';
-  return 'en';
+  return 'zh'; // default to Chinese (primary audience: NYCU/NTHU in Taiwan)
 }
 
 function detectLang(): Lang {
