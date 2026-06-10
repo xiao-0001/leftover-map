@@ -1,0 +1,14 @@
+name = "leftovermap-nycu"
+compatibility_date = "2026-06-01"
+pages_build_output_dir = "./dist"
+
+[[d1_databases]]
+binding = "DB"
+database_name = "eng-p-db"
+database_id = "31a544f2-1e0f-4a70-9ae2-38f362a0ac66"
+
+# Workers AI — free-tier daily Neuron allocation on the project's own Cloudflare
+# account. Powers the assistant (/api/ai/agent), photo auto-tagging
+# (/api/ai/vision) and translation (/api/ai/translate). No external paid API key.
+[ai]
+binding = "AI"

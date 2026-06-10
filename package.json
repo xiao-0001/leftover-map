@@ -1,0 +1,35 @@
+{
+  "name": "eng-p-leftover-maps",
+  "private": true,
+  "version": "0.1.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "tsc -b && vite build",
+    "preview": "vite preview",
+    "deploy": "npm run build && wrangler pages deploy dist"
+  },
+  "dependencies": {
+    "leaflet": "^1.9.4",
+    "leaflet.markercluster": "^1.5.3",
+    "qrcode.react": "^4.2.0",
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1",
+    "react-leaflet": "^4.2.1",
+    "react-leaflet-cluster": "^2.1.0",
+    "react-router-dom": "^6.26.2"
+  },
+  "devDependencies": {
+    "@types/leaflet": "^1.9.12",
+    "@types/leaflet.markercluster": "^1.5.5",
+    "@types/react": "^18.3.12",
+    "@types/react-dom": "^18.3.1",
+    "@vitejs/plugin-react": "^4.3.3",
+    "autoprefixer": "^10.4.20",
+    "postcss": "^8.4.49",
+    "tailwindcss": "^3.4.14",
+    "typescript": "^5.6.3",
+    "vite": "^5.4.10",
+    "wrangler": "^3.114.0"
+  }
+}
